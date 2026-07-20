@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+*.user
+.worktrees/
+uploads/
+appsettings.Development.json
+.claude/
